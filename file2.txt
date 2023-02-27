@@ -1,3 +1,4 @@
 file2
 file2
-resolve bug2
+resolve bu2
+add in branch bugfix
